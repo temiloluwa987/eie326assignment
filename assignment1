@@ -1,0 +1,36 @@
+<DOCTYPE!>
+<html>
+    <head>
+        <title>futbol</title>
+    </head>
+<body>
+    <div id="Personname" style="margin-left:420px;">
+    <h1 style="color:black;">Temloluwa</h1>
+    <h3><i>praise.bello@stu.cu.edu.ng</i></h3>
+    </div>
+    <div id="passport">
+        <img src="photo_2024-04-20_16-42-31" alt="photo_2023-08-13_17-12-40" width="300" height="300" style="margin-left:420px;">
+    </div>
+    <div id="pagelinks">
+        <ul>
+            <li>Home</li>
+            <li>matchday matches</li>
+            <li>lineups</li>
+            <li>stats</li>
+            <li>highlights</li>
+        </ul>
+    </div>
+    
+    <h1>Bio</h1>
+    <p>
+      get all your football entertainment here, highlights, skill videos, stats
+    </p>
+    <h1>Publictions</h1>
+    <ul>
+        <li>player stats</li>
+        <li>skill video</li>
+        <li>club stats</li>
+    
+    </ul>
+</body>
+</html>
